@@ -8,7 +8,7 @@ Use `local` to indicate its local to the repository.
 This is the biggest thing I'm noticing. 
 Its often very confusing especially in compile to environments.
 
-1. local machines you should not have `/build` **!**.
+1. local machines you should not have `/build` **!**. Instead use `var/build` ie.. its variable.. or `tmp/build`
 2. The more important keywords are a graph on its `low-levelness` ( IE not within a `lib` structure ). 
 3. Some repositories might just be static assets, it is more clear if they are still within `static`
 
