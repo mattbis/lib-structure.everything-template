@@ -1,8 +1,7 @@
 # lib-structure.template.wip 
 ##### version 0 wip may-2023
-### for my own submodule deps, anything, and to keep a common structure as most projects are incoherent
-
-#### everything possible, prune!
+## everything possible, prune!
+#### for my own submodule deps, anything, and to keep a common structure as most projects are incoherent
 
 Use `local` to indicate its local to the repository. 
 This is the biggest thing I'm noticing. 
