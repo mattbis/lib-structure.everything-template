@@ -20,5 +20,4 @@ Its often very confusing especially in compile to environments.
 5. semver live builds support via one token; universal to system
 6. build number
 7. repo/project config.def
-8. static authors, network, reports
-9. i forgot about `/share`
+8. static authors, network, reports ie.. you don't rely on the hosting VCS for this.. and include it as text... 
