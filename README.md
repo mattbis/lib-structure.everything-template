@@ -13,7 +13,7 @@ Its often very confusing especially in compile to environments.
 
 ### notes
 0. it can have a top level dirs if its smaller in magnitude... usually I would prefer to keep it tidy as possible.
-1. include source via repo; v tag source log
+1. include source via repo; v tag source log. `src` is the main channel, `src.dev` future stuff etc etc
 2. optional include in repo each release assets or raw. link to them.
 3. optional use repo actions
 4. the library should have a log of this as part of it as a metadata things can query.. etc; regardless... ideally each release has a magnitude of change .. for other streams. 
